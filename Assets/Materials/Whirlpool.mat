@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Whirlpool
+  m_Shader: {fileID: -6465566751694194690, guid: 07d048195b1e7ae479f5168d554100f9,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_8871DA86:
+        m_Texture: {fileID: 2800000, guid: b88b9ce9834c93242bb68b7e8988befd, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_B3532E8F: 0.974
+    - Vector1_CF7A823D: 6.01
+    - Vector1_FAD39C5: 5.13
+    - _Drop: 7.95
+    - _Length: 1
+    m_Colors: []
